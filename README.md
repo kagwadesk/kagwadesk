@@ -78,11 +78,8 @@ div.desc {
   
 </div>
 
-
-
-
-
-<div class="gallery">
+<h6> About us </h6>
+ <div class="gallery">
   <a target="_blank" href="img_forest.jpg">
     <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/04/hospital-1618287498.jpg" alt="Forest" width="600" height="400">
   </a>
@@ -100,11 +97,6 @@ div.desc {
     <img src=" https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80" alt="Mountains" width="600" height="400">
   </a>
   <</div>
-
-</body>
-</html>
-
-
 
 </body>
 </html>
