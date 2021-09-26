@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<!DOCTYPE html>
-<html>
 <head>
 <h1>DKTE's Super spacility Hospital of Ichalkranji.</h1>
 <h1 style="background-color:DodgerBlue;"> !! We Provide best Services to Patient !!</h1>
