@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> DKTE's Super spacility Hospital . </title>
+
 </head>
 <body>
 
