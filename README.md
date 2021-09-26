@@ -1,16 +1,18 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
 
-<!--
-**kagwadesk/kagwadesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hello Everyone, Today is 18th Sept 2021</h1>
+  <h2> Reviewed by Sourabh kagwade </h2>
 
-Here are some ideas to get you started:
+<p> As a part of mega proj we had  deployed a Web Application </p>
+  
+  <h2> " Hospital Management System Using aws Cloud "<h2>
+  
+  
+  
+<h2> Reviewed by Sourabh kagwade , Pritam Neje ,Hemant Kumbhar </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
+
